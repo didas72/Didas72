@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! I'm Diogo Cruz Diniz, or Didas72, even simply Didas, depending on where you know me from.
+
+- I'm a Computer Science student at Instituto Superior Tecnico - Taguspark.
+- I have been interested in programming since I was 11, when I started learning how to use scratch. Since then I have explored 3D modelling with Blender, game dev with Unity, had a wide variety of projects written in C# and recently have been programming mostly in C/C++.  
+- 🌱 I'm currently learning Rust in my free time.
 
 <!--
 **didas72/Didas72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
